@@ -16,9 +16,9 @@ public class CharacterTest {
 		System.out.println(ch3);
 		System.out.println((char)ch3);
 		
-		char han = 'ÇÑ';
-		char ch = '\uD55C';
-		System.out.println(han);
-		System.out.println(ch);
+//		char han = 'ï¿½ï¿½';
+//		char ch = '\uD55C';
+//		System.out.println(han);
+//		System.out.println(ch);
 	}
 }
