@@ -1,4 +1,4 @@
-INDEX VERSION 1.131+C:\Users\lukaid\Documents\FAST_JAVA\.metadata\.plugins\org.eclipse.jdt.core
-3111287885.index
-1642175237.index
-544943607.index
+INDEX VERSION 1.131+/Users/lukaid/FAST_JAVA/.metadata/.plugins/org.eclipse.jdt.core
+2752266966.index
+1023742828.index
+3787740244.index

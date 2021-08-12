@@ -10,5 +10,4 @@ public class ManNameTest {
 		
 		System.out.println(ManTomas.showManInfo());
 	}
-
 }
