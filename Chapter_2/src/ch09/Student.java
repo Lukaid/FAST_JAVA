@@ -12,6 +12,7 @@ public class Student {
 		this.studentID = studentID;
 		this.studentName = studentName;
 		
+		// 참조변수를 멤버변수로 쓰는 경우, 보통 생성자에서 선언
 		korea = new Subject();
 		math = new Subject();
 	}

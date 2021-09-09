@@ -9,6 +9,8 @@ public class BirthDay {
 	 private boolean isValid; // default = false
 	
 	// 두개 만들고 우클릭 Source - Generate Getter and Setter,  정보를 보호하는 방법
+	 // private 변수의 오용을 막고, 원하는 방향으로 get, set 메서드를 사용하여 구성할 수 있음.
+	 // client에서 잘못 사용하는 것을 막을 수 있다.
 	public int getDay() {
 		return day;
 	}

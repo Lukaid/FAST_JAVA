@@ -2,6 +2,7 @@ package ch11;
 
 public class MakeReport {
 
+	// String class
 	StringBuffer buffer = new StringBuffer();
 	
 	private String line = "===========================================\n";

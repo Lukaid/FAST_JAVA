@@ -2,7 +2,7 @@ package ch03;
 
 public class FunctionTest {
 	
-	int add(int num1, int num2) { // returnÀÌ ¾ø´Â ÇÔ¼ö´Â void
+	int add(int num1, int num2) { // returnì´ ì—†ëŠ” í•¨ìˆ˜ëŠ” void
 		
 		int result;
 		result = num1 + num2;
@@ -38,7 +38,7 @@ public class FunctionTest {
 		
 		int total = addNum(n1, n2);
 		
-		sayHello("¾È³çÇÏ¼¼¿ä");
+		sayHello("ì•ˆë…•í•˜ì„¸ìš”");
 		int num = calcSum();
 		
 		System.out.println(total);

@@ -5,10 +5,10 @@ public class Person {
 	String name;
 	int age;
 	
-	// 초기화를 시켜줌
+	// default생성자, 아무런 값이 안들어왔을 때, 초기화를 해
 	public Person() {
 		// 바로 밑의 생성자를 불러주는 개념... 얘를 제일 먼저 불러야 댐
-		this("no name", 1);
+		this("no name", 1); // 밑에 생성자를 부르는 것
 	}
 	
 	public Person(String name, int age) {
