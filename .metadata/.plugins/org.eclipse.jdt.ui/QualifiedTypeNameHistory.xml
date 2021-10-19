@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="ch14.Subway"/>
     <fullyQualifiedTypeName name="ch14.Student"/>
     <fullyQualifiedTypeName name="ch14.Taxi"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>
